@@ -2,7 +2,9 @@
  jtag tap_controller_fsm Verilog code
  # TAP CONTROLLER
  In this design have following input and output signal- 
-** inputs**
+
+ **inputs**
+
 ![image](https://user-images.githubusercontent.com/72481400/185790466-936d833d-bb45-4848-a574-0bbe372eb143.png)
 
 **outputs** - all output have 1 bit-
@@ -45,8 +47,10 @@ localparam  PAUSE_IR=4'hF;
 
 and define one 4 bit register type varible for state.
 
-# FSM flow chart- 
-**Working- **
+# FSM flow chart 
+
+**working**
+
  When trst have negative edage then all output have zero and state value equal to TEST_LOGIC_RESET(initial state).
 
 For tms signal value apply succesive 5 cycle as 1 then it reached initial state from any state here have all output 0.
