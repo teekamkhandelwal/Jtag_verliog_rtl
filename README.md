@@ -5,11 +5,12 @@
 
  **inputs**
 
-![image](https://user-images.githubusercontent.com/72481400/185790466-936d833d-bb45-4848-a574-0bbe372eb143.png)
+![image](https://user-images.githubusercontent.com/72481400/185791320-994219bd-8eed-43d7-92a2-8e7499e2e05c.png)
 
 **outputs** - all output have 1 bit-
 
-![image](https://user-images.githubusercontent.com/72481400/185790624-f0471341-f1d5-4cb9-b0ff-605d1d55034f.png)
+![image](https://user-images.githubusercontent.com/72481400/185791288-786b7425-3468-470e-b1ec-9e3750de8148.png)
+
 
 and have 16 states in fsm which given below with define constant value - 
 
